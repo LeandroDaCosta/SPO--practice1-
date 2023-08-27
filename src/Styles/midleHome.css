@@ -1,0 +1,24 @@
+.home-background{
+    background-color: rgb(255, 255, 255);
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    margin-bottom: 70px;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: rgb(255, 255, 255);
+  }
+  
+  .home-backgroundd{
+    background-color: rgb(254, 254, 254);
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap; /* Alteração feita aqui */
+    font-size: calc(10px + 2vmin);
+    color: rgb(255, 255, 255);
+    height: 1100px;
+    flex-shrink: 0;
+    width: 1280px;
+    margin-top: 50px;
+  }
+  

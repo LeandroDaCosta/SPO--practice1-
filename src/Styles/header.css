@@ -1,0 +1,58 @@
+.HomeHeader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 450px;
+    background-image:url(https://4kwallpapers.com/images/wallpapers/dark-background-abstract-background-network-3d-background-6016x3384-8324.png) ;
+flex-direction: column;
+}
+.title{
+ padding-top: 50%;
+font-size: 50px;
+    color: rgb(255, 255, 255);
+}
+
+.subtitle{
+    font-size: 25px;
+        color: rgb(87, 87, 87);
+    }
+    .footer-header{
+        position: relative;
+        height: 40px;
+        width: 102vw;
+        margin-top: auto;
+        margin-right: 30px;
+        display: flex;
+        align-items: center;
+    }
+    .left-content{
+        display: flex;
+        height: 30px;
+        width: 50vw;
+    }
+    .rigth-content{
+        background-color: rgb(9, 9, 9);
+        height: 22px;
+        width: 5vw;
+       margin-left: 500px;
+       border-radius: 10px;
+       border-style: solid;
+       border-width: 0.1px;
+       border-color: white ;
+       text-align: center;
+       cursor: pointer;
+    }
+    .text-footer{
+        margin-left: 50px;
+        color:rgb(208, 208, 208);
+        cursor: pointer;
+    }
+    .text-footer:hover{
+        color:rgb(255, 255, 255);
+
+    }
+    .textr-footer{
+       
+        color:rgb(255, 255, 255);
+
+    }
